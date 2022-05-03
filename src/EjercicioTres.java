@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class EjercicioTres {
 public static void main(String[] args) {
-	System.out.println("da igual");
 	Scanner leer=new Scanner(System.in);
 	//con esta orden leemos solo la primera letra (la 0)
 	char letra=leer.nextLine().charAt(0);
